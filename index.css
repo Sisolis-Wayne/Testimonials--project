@@ -115,7 +115,6 @@ body {
         background-position: top 1px right 20px;
     }
     
-
     .card:nth-of-type(4) {
         grid-column: 1;
         grid-row: 4;
