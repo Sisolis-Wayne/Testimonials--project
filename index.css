@@ -100,7 +100,7 @@ body {
     text-decoration: none;
 }
 
-@media(max-width: 376px) {
+@media(max-width: 500px) {
     .testimonials {
         grid-template-columns: 1fr;
         width: 80%;
